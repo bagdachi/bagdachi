@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bagdachi
-- 👀 I’m interested in ... JAVA
-- 🌱 I’m currently learning ... Spring
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... chiragbagda@gmail.com
 
